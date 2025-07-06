@@ -1,0 +1,1 @@
+Dams can pose a serious risk during heavy rainfall or rapid snowmelt, potentially causing floods. Continuous monitoring of water flow levels is essential to preemptively identify dangerous situations. The system must alert authorities when levels exceed the safe limit, reducing response time and enhancing preparedness.
